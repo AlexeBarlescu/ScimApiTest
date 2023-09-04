@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hJB3Nw0dZEkgxJ6UfM3u+xolqY4JIolmlGCatf/RQQA=",
+  "Source": "TestScimRest",
+  "BasePath": "_content/TestScimRest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
